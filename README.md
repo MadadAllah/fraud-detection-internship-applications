@@ -127,16 +127,12 @@ All dependencies are listed in `requirements.txt`, including:
 
 Below are key visuals from the application:
 
-- ✅ **Raw Dataset Preview**  
   ![Raw Dataset Preview](raw_dataset_preview.jpg)
 
-- 🚨 **Anomaly Detection Summary** (Isolation Forest + K-Means results)  
   ![Anomaly Detection Summary](anomaly_detection_summary.jpg)
 
-- 📉 **PCA Visualization of Anomalies**  
   ![PCA Visualization](PCA_Visualization.png)
 
-- 📥 **Download Button for Flagged Suspicious Applications**  
   ![Download Button](download_button.jpg)
 
 
