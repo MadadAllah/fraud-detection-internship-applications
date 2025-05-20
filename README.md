@@ -128,7 +128,7 @@ All dependencies are listed in `requirements.txt`, including:
 Below are key visuals from the application:
 
 - ✅ **Raw Dataset Preview**  
-  ![Raw Dataset Preview](images/raw_dataset_preview.jpg)
+  ![Raw Dataset Preview](raw_dataset_preview.jpg)
 
 - 🚨 **Anomaly Detection Summary** (Isolation Forest + K-Means results)  
   ![Anomaly Detection Summary](images/anomaly_detection_summary.jpg)
