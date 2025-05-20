@@ -131,13 +131,13 @@ Below are key visuals from the application:
   ![Raw Dataset Preview](raw_dataset_preview.jpg)
 
 - 🚨 **Anomaly Detection Summary** (Isolation Forest + K-Means results)  
-  ![Anomaly Detection Summary](images/anomaly_detection_summary.jpg)
+  ![Anomaly Detection Summary](anomaly_detection_summary.jpg)
 
 - 📉 **PCA Visualization of Anomalies**  
-  ![PCA Visualization](images/PCA_Visualization.png)
+  ![PCA Visualization](PCA_Visualization.png)
 
 - 📥 **Download Button for Flagged Suspicious Applications**  
-  ![Download Button](images/download_button.jpg)
+  ![Download Button](download_button.jpg)
 
 
 ---
